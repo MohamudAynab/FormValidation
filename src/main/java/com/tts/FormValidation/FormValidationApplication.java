@@ -10,4 +10,5 @@ public class FormValidationApplication {
 		SpringApplication.run(FormValidationApplication.class, args);
 	}
 
+
 }
